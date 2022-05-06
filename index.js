@@ -76,7 +76,7 @@ function clickMe(key){
 
 
   
-      default: console.log(innerHTML);
+      default: console.log(innerHTML); 
           
   }
 
